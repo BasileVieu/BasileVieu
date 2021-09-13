@@ -33,7 +33,7 @@
 			</tr>
 		</tbody>
 	</table>
-	<table align="center">
+	<table>
 		<thead>
 			<tr>
 				<th colspan="2"><b>Engine / Librairies</b></th>
