@@ -1,4 +1,4 @@
-### Hi there 👋
+# <p align="center"><a href="https://www.angeluriot.com/#about"><span>👦🏻 About me</span></a></p>
 
 <!--
 **BasileVieu/BasileVieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
