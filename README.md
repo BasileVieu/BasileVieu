@@ -11,7 +11,7 @@
 <table align="center">
 	<tbody>
 		<tr>
-			<table>
+			<table align="center">
 				<thead>
 					<tr>
 						<th colspan="2"><b>Languages</b></th>
@@ -35,7 +35,7 @@
 					</tr>
 				</tbody>
 			</table>
-			<table>
+			<table align="center">
 				<thead>
 					<tr>
 						<th colspan="2"><b>Engine / Librairies</b></th>
