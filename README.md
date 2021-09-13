@@ -1,4 +1,8 @@
-# <p align="center"><a href="https://www.angeluriot.com/#about"><span>👦🏻 About me</span></a></p>
+# <p align="center"><a href="http://basilevieu.fr/#about"><span>👦🏻 About me</span></a></p>
+
+<p align="center">
+	<span>Hi! I'm a 23 years old french graduate video game programmer at <a href="https://www.creajeux.fr/">Créajeux</a>, I'm currently looking for a job in video game programming, but I also work on differents projets which you can see on this GitHub or on my <a href="http://basilevieu.fr/>website</a>.</span>
+</p>
 
 <!--
 **BasileVieu/BasileVieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
