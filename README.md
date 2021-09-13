@@ -1,7 +1,7 @@
 # <p align="center"><a href="http://www.basilevieu.fr/#about"><span>👦🏻 About me</span></a></p>
 
 <p align="center">
-	<span>Hi! I'm a 23 years old french graduate video game programmer at <a href="https://www.creajeux.fr/">Créajeux</a>. I'm currently looking for a job in video game programming, but I also work on differents projets which you can see on this GitHub or on my <a href="http://www.basilevieu.fr/">website</a>.</span>
+	<span>Hi! I'm a 23 years old french graduate video game programmer. I recently finished my training at <a href="https://www.creajeux.fr/">Créajeux</a>. I'm currently looking for a job in video game programming, but I also work on differents projets which you can see on this GitHub or on my <a href="http://www.basilevieu.fr/">website</a>.</span>
 </p>
 
 <br>
