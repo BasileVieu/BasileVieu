@@ -6,7 +6,7 @@
 
 <br>
 
-# <p align="center"><a href="http://www.basilevieu.fr/#skills"><span>📚 Skills</span></p>
+# <p align="center"><a href="http://www.basilevieu.fr/#skills"><span>📚 Skills</span></a></p>
 
 <table align="center">
 	<thead>
@@ -54,7 +54,7 @@
 
 <br>
 
-# <p align="center"><a href="http://www.basilevieu.fr/#contacts"><span>📭 Contact</span></p>
+# <p align="center"><a href="http://www.basilevieu.fr/#contacts"><span>📭 Contact</span></a></p>
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/basilevieu/">
