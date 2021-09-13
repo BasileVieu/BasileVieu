@@ -8,7 +8,7 @@
 
 # <p align="center"><span>📚 Skills</span></p>
 
-<table style="float: left;">
+<table style="display: inline-block">
 		<thead>
 			<tr>
 				<th colspan="2"><b>Languages</b></th>
@@ -32,7 +32,7 @@
 			</tr>
 		</tbody>
 	</table>
-	<table style="float: left;">
+	<table style="display: inline-block">
 		<thead>
 			<tr>
 				<th colspan="2"><b>Engine / Librairies</b></th>
