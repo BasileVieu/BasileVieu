@@ -8,7 +8,7 @@
 
 # <p align="center"><span>📚 Skills</span></p>
 
-<table align="center" style="display: inline-block;">
+<table align="center" style="float: left;">
 	<table>
 		<thead>
 			<tr>
