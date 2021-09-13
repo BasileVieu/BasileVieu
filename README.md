@@ -14,6 +14,7 @@
 			<tr>
 				<th colspan="2"><b>Languages</b></th>
 			</tr>
+		</thead>
 		<tbody>
 			<tr>
 				<td align="center"><a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a></td>
@@ -29,6 +30,23 @@
 			</tr>
 			<tr>
 				<td align="center"><a href="https://en.wikipedia.org/wiki/Git">Git</a></td>
+			</tr>
+		</tbody>
+	</table>
+	<table>
+		<thead>
+			<tr>
+				<th colspan="2"><b>Engine / Librairies</b></th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td align="center"><a href="https://fr.wikipedia.org/wiki/Unity_%28moteur_de_jeu%29">Unity</a></td>
+				<td align="center"><a href="https://fr.wikipedia.org/wiki/Unreal_Engine">Unreal</a></td>
+			</tr>
+			<tr>
+				<td align="center"><a href="https://www.sfml-dev.org/index.php">SFML</a></td>
+				<td align="center"><a href="https://www.opengl.org//">OpenGL</a></td>
 			</tr>
 		</tbody>
 	</table>
