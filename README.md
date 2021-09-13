@@ -1,12 +1,12 @@
-# <p align="center"><a href="http://basilevieu.fr/#about"><span>👦🏻 About me</span></a></p>
+# <p align="center"><a href="http://www.basilevieu.fr/#about"><span>👦🏻 About me</span></a></p>
 
 <p align="center">
-	<span>Hi! I'm a 23 years old french graduate video game programmer at <a href="https://www.creajeux.fr/">Créajeux</a>. I'm currently looking for a job in video game programming, but I also work on differents projets which you can see on this GitHub or on my <a href="http://basilevieu.fr/">website</a>.</span>
+	<span>Hi! I'm a 23 years old french graduate video game programmer at <a href="https://www.creajeux.fr/">Créajeux</a>. I'm currently looking for a job in video game programming, but I also work on differents projets which you can see on this GitHub or on my <a href="http://www.basilevieu.fr/">website</a>.</span>
 </p>
 
 <br>
 
-# <p align="center"><span>📚 Skills</span></p>
+# <p align="center"><a href="http://www.basilevieu.fr/#skills"><span>📚 Skills</span></p>
 
 <table align="center">
 	<thead>
@@ -20,8 +20,8 @@
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a></td>
-			<td align="center"><a href="https://fr.wikipedia.org/wiki/Unity_%28moteur_de_jeu%29">Unity</a></td>
-			<td align="center"><a href="https://fr.wikipedia.org/wiki/Unreal_Engine">Unreal</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Unity_%28game_engine%29">Unity</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Unreal_Engine">Unreal</a></td>
 			<td align="center"><a href="https://www.jetbrains.com/">JetBrains</a></td>
 			<td align="center"><a href="https://visualstudio.microsoft.com/">Visual Studio</a></td>
 		</tr>
@@ -51,6 +51,24 @@
 		</tr>
 	</tbody>
 </table>
+
+<br>
+
+# <p align="center"><a href="http://www.basilevieu.fr/#contacts"><span>📭 Contact</span></p>
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/basilevieu/">
+		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="mailto:basile.vieu.dev@gmail.com">
+		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="http://www.basilevieu.fr/">
+		<img src="https://img.shields.io/badge/-BASILEVIEU.FR-000000?style=for-the-badge&logo=react&logoColor=white">
+	</a>
+</p>
 
 <!--
 **BasileVieu/BasileVieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
