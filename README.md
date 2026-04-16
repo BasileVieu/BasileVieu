@@ -1,7 +1,7 @@
 # <p align="center"><a href="http://www.basilevieu.fr/#about"><span>👦🏻 About me</span></a></p>
 
 <p align="center">
-	<span>Hi! I'm a 26 years old french graduate video game programmer. I finished my training at <a href="https://www.creajeux.fr/">Créajeux</a>. I'm currently looking for a job in video game programming, but I also work on differents projets which you can see on this GitHub or on my <a href="http://www.basilevieu.fr/">website</a>.</span>
+	<span>Hi! My name is Basile Vieu and I am a gameplay programmer with a diploma from Créajeux. I've always found the creativity that developers show interesting. So I too wanted to create and thus entertain. Creating an immersive universe and making the game more beautiful without impacting the gameplay and performance is of particular interest to me in the creation of a video game. This makes it easier for the player to become emotionally involved in the story and thus to retain vivid memories of the game. Thanks to my training at <a href="https://www.creajeux.fr/">Créajeux</a>, I also acquired skills in AI programming, tools, and engine. I'm currently looking for a job in video game programming, but I also work on differents projets which you can see on this GitHub or on my <a href="http://www.basilevieu.fr/">website</a>.</span>
 </p>
 
 <br>
